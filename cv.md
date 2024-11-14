@@ -21,3 +21,12 @@ function nthFibo(n) {
 }
 
 ```
+For those who want to study together at rs-school, collaborate, make cool layouts. You can contact me by:
+### Location 
+**Minsk, Belarus**\
+Phone: +375 (29) 564-01-66\
+Email: [nevozmojke@gmail.com](nevozmojke@gmail.com)\
+Telegram: [@AndreySankovich](https://telegram.me/AndreySankovich)
+
+
+## See you in RS-School Buddy!
